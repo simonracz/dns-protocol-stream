@@ -15,4 +15,4 @@ make
 
 [RFC-1035](https://www.rfc-editor.org/rfc/rfc1035)
 
-[IANA - DNS Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml#dns-parameters-9)
+[IANA - DNS Parameters](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
